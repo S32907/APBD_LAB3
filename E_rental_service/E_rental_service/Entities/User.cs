@@ -1,7 +1,7 @@
 ﻿namespace E_rental_service.Entities;
 using E_rental_service.Enums;
     
-abstract class User
+public abstract class User
 {
     //properties
     public string Identifier {get; set;}
